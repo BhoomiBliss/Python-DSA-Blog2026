@@ -15,3 +15,4 @@ Today I officially started my Python journey! I focused on understanding the cor
 ### 📝 Reflections
 
 Python feels very close to English. I learned that statements don't need semicolons and end automatically with a new line.
+
