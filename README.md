@@ -12,8 +12,6 @@ Welcome to my journey of mastering Data Structures and Algorithms using Python! 
 | 01 | Syntax, Variables & Casting | [W3Schools Basics](https://www.w3schools.com/python/) | [Read Day 1 Notes](./day1.md) |
 | 02 | HackerRank Challenges | [HackerRank Profile](https://www.hackerrank.com/profile/bhoomikasshetty1) | [Coming Soon...](./day2.md) |
 
-
-
 ## 🛠️ Tech Stack
 - **Language:** Python 3.12+
 - **Environment:** GitHub Codespaces & PyCharm 2025.3
