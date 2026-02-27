@@ -6,6 +6,7 @@ Welcome to my journey of mastering Data Structures and Algorithms using Python! 
 - **Problem Solving:** Achieve a 5-star Gold Medal in Python on **HackerRank**.
 - **Consistency:** Document code and logic every single day for 100+ days.
 
+
 ## 📊 Progress Tracker
 | Day | Topic | Source/Link | Daily Blog |
 | :--- | :--- | :--- | :--- |
