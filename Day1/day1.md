@@ -2,7 +2,6 @@
 
 Today I officially started my Python journey! I focused on understanding the core syntax and how Python handles data without explicit declarations.
 
-
 ### 📚 What I Learned
 
 1. **Python Syntax & Indentation:** Python uses whitespace (indentation) to define blocks of code, unlike other languages that use braces `{}`.
@@ -11,8 +10,8 @@ Today I officially started my Python journey! I focused on understanding the cor
 4. **Casting:** Explicitly changing data types using `int()`, `float()`, and `str()`.
 5. **String Basics:** Learned how to access characters by index and use loops to iterate through strings.
 
-
 ### 📝 Reflections
 
 Python feels very close to English. I learned that statements don't need semicolons and end automatically with a new line.
+
 
